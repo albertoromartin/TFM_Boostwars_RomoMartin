@@ -16,6 +16,6 @@ En este repositorio se incluyen los siguientes directorios y archivos:
 
 El rendimiento del juego es ligeramente mejor en Windows.
 
-Para cualquier incidencia, contacet al correo electrónico alberto.romartin@alumnos.upm.es
+Para cualquier incidencia, contacte al correo electrónico alberto.romartin@alumnos.upm.es
 
 Alberto Romo
