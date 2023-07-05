@@ -2,7 +2,7 @@ Trabajo realizado por Alberto Romo Martín
 
 En este repositorio se incluyen los siguientes directorios y archivos:
 
--Directorio 'Boostwars' que incluye todo el código desarrollado durante el proyecto de finde máster.
+-Directorio 'Boostwars' que incluye todo el código desarrollado durante el proyecto de fin de máster.
 
 	*La escena principal es la situada en Assets/Scenes/MainTile.unity.
  
