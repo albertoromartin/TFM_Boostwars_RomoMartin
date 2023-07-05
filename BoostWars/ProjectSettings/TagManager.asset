@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - GameVoid
+  - CPU
+  - WeaponSpawner
+  - NukeParticle
+  - NukeWeapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PrevLine
+  - 
+  - Terrain
+  - 
+  - Projectile
+  - 
+  - Platforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particles
+    uniqueID: 62537067
+    locked: 0
+  - name: Stats
+    uniqueID: 3523342735
+    locked: 0
+  - name: UI
+    uniqueID: 3830783907
+    locked: 0
